@@ -40,6 +40,6 @@
 ![Screenshot 2](https://github.com/girik21/MazeTraversal/assets/87162191/bce067c3-3200-421d-a9ca-e3fcdc31f29f)
   
 ## References
-- `Leetcode`: [LeetCode Maze/](https://leetcode.com/problems/the-maze/)
+- `Leetcode`: [LeetCode Maze](https://leetcode.com/problems/the-maze/)
 - `Prof Henry Chang website`: [https://hc.labnet.sfbu.edu/~henry/npu/classes//algorithm/graph_alg/slide/maze.html#a1](https://hc.labnet.sfbu.edu/~henry/npu/classes//algorithm/graph_alg/slide/maze.html#a1)
-- `ChatGPT How to solve BFS maze using python`: [ChatGPT/](https://chat.openai.com/)
+- `ChatGPT How to solve BFS maze using python`: [ChatGPT](https://chat.openai.com/)
